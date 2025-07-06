@@ -41,3 +41,10 @@ git push origin HEAD
 Go to github a create a pull request
 
 ### 10. Review changes and merge to main branch
+
+Go to github and review changes and merge to main branch
+
+### 11. Before coding checkout to main branch and pull latest changes
+
+git checkout main
+git pull
